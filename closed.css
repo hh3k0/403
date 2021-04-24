@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+:root {
+	--color1: #AFF3D7;
+	--color2: #0C1729;
+}
+
+body, html {
+	margin: 0;
+	overflow: hidden;
+	position: relative;
+}
+
+body {
+	align-items: center;
+	background-image: linear-gradient(to bottom right, var(--color1), var(--color2));
+	color: #fff;
+	display: flex;
+	flex-direction: column;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	justify-content: center;
+	height: 100vh;
+	text-align: center;
+}
+
+.container h1 {
+	font-size: 4.5em;
+	margin: 0 0 0.7em;
+	line-height: 5px;
+	font-family: 'Dancing Script', cursive;
+	font-weight: 700;
+}
+
+.container img {
+	width: 50%;
+	height: auto;
+	border: 5px solid #FFF;
+}
+
+.container p {
+	font-size: 1.2em;
+	line-height: 26px;
+}
+
+.container a {
+	color: #eee;
+}
+
+.circle {
+	background-image: linear-gradient(to top right, var(--color1), var(--color2));
+	border-radius: 50%;
+	position: absolute;
+	z-index: -1;
+}
+
+.circle.small {
+	top: 200px;
+	left: 150px;
+	width: 100px;
+	height: 100px;
+}
+
+.circle.medium {
+	background-image: linear-gradient(to bottom left, var(--color1), var(--color2));
+	bottom: -70px;
+	left: 0;
+	width: 200px;
+	height: 200px;
+}
+
+.circle.big {
+	top: -100px;
+	right: -50px;
+	width: 400px;
+	height: 400px;
+}

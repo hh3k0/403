@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/hh3k0
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hh3k0.github.io
+  * I am hh3k0 (https://keybase.io/hh3k0) on keybase.
+  * I have a public key ASCPCb7S23FhC7E8NnvzeuvvqbnQMIozOo9zBqn1zotWCwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208f09bed2db71610bb13c367bf37aebefa9b9d0308a333a8f7306a9f5ce8b560b0a",
+      "host": "keybase.io",
+      "kid": "01208f09bed2db71610bb13c367bf37aebefa9b9d0308a333a8f7306a9f5ce8b560b0a",
+      "uid": "e4ee48d4156e5ab9544ad6727e11a119",
+      "username": "hh3k0"
+    },
+    "merkle_root": {
+      "ctime": 1619218201,
+      "hash": "502198c5517b591df0988d1901f2f87f6c26fe20e9f4fd3841e875c107fd4370505d07157ca361ed01156ce58613b465a5bf5ed59a7b931d32599632a00aa1b1",
+      "hash_meta": "a9f6d703799e3a6f4fb6d2e1b7f8da2b1f728991f53b3167167888850fc20888",
+      "seqno": 19725928
+    },
+    "service": {
+      "entropy": "Ry1WJhUjTaoNctdueWCvzZE+",
+      "hostname": "hh3k0.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1619218210,
+  "expire_in": 504576000,
+  "prev": "127965e3fbad79cbee688a10c6d35385f4ba4cc931f02a6bc384395bcb5aeab2",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjwm+0ttxYQuxPDZ783rr76m50DCKMzqPcwap9c6LVgsKp3BheWxvYWTESpcCDMQgEnll4/utecvuaIoQxtNThfS6TMkx8Cprw4Q5W8ta6rLEIFUKqELIr/w1Ilc146pbJNJiMuYm9nTCBe09XqeOMYWOAgHCo3NpZ8RAPmHxjqhWGRR6oRzBkK+hhBxoNbuWLxRlvtNZ3gzf9ngbhFxs6yEwTzbqBjclqLO9O4y15KitTRdJfKEEHRjEB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFQ8FKSqQDzUYNE95Y8tcMojWQaB3/dTrspX76IG3Oueo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hh3k0
+
+==================================================================
